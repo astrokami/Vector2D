@@ -1,6 +1,5 @@
 import math
 
-
 class Vector2D:
     """A 2D vector class with common vector operations."""
     
